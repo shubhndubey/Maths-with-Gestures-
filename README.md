@@ -2,7 +2,7 @@
 
 ## Overview
 
-**GestureGlide** is an interactive AI-powered web application that allows users to **draw using hand gestures** detected through their webcam and receive **smart AI-generated answers** based on their drawings.
+It is an interactive AI-powered web application that allows users to **draw using hand gestures** detected through their webcam and receive **smart AI-generated answers** based on their drawings.
 
 Built using **OpenCV**, **cvzone**, and **Streamlit**, and powered by **Google Gemini AI**, this project merges **computer vision**, **natural language processing**, and **gesture recognition** to deliver a fun, intuitive, and educational experience.
 
