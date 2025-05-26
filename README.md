@@ -1,5 +1,4 @@
-# Maths-with-Gestures-
-# ✋ GestureGlide: Gesture-Based AI Drawing and Problem Solver 🎨🤖
+# Maths-with-Gestures🎨🤖
 
 ## Overview
 
